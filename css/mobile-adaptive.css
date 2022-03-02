@@ -1,0 +1,447 @@
+@media (max-width: 1339px) {
+    .idc-section {
+        max-width: 100%;
+        min-width: 100%;
+    }
+    .idc-container {
+        max-width: 930px;
+    }
+
+    /* *************head************ */
+    .idc-head .idc-container {
+        padding-top: 87px;
+    }
+    /* ************about************ */
+    .idc-about .idc-container {
+        margin-top: -30px;
+    }
+    .idc-about-img {
+        width: 280px;
+        right: 110px;
+        margin-top: 0;
+    }
+    .idc-about-content {
+        max-width: 437px;
+    }
+    .idc-about .idc-title-3 + .idc-text-3 {
+        margin-top: 76px;
+    }
+    /* ************counts*********** */
+    .idc-counts {
+        margin-top: 0;
+    }
+
+    .idc-square {
+        width: 68px;
+        height: 68px;
+    }
+    .idc-dots-big {
+        width: 84px;
+        height: 84px;
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+    /* *************slider************ */
+    .idc-slider-img {
+        width: 753px;
+    }
+    .idc-slider-info {
+        padding-top: 30px;
+        padding-bottom: 142px;
+        padding-left: 30px;
+        margin-right: 0;
+        width: 265px;
+    }
+    .idc-swiper-btns {
+        right: 120px;
+        bottom: 17px;
+    }
+    .idc-slider-info .idc-title-2 {
+        margin-top: 30px;
+    }
+    /* *************projects************ */
+    .idc-projects .idc-container {
+        padding-top: 100px;
+    }
+    .idc-items-block {
+        margin-top: 57px;
+    }
+    .idc-item {
+        margin-top: 10px;
+    }
+    .idc-item:nth-child(4) {
+        margin-left: 0;
+    }
+    .idc-item:last-child {
+        border-right: none;
+    }
+    /* *************footer ************ */
+    .idc-footer .idc-container {
+        padding-bottom: 235px;
+    }
+    .idc-footer .idc-text-1::after {
+        width: 100%;
+    }
+}
+@media (max-width: 1019px) {
+    .idc-container {
+        max-width: 610px;
+    }
+    .idc-title-1 {
+        font-size: 70px;
+        line-height: 80px;
+    }
+    .idc-title-2 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .idc-title-3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .idc-text-1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .idc-text-2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .idc-text-3 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    /* *************head************ */
+    .idc-head .idc-container {
+        padding-top: 68px;
+    }
+    .idc-head-img {
+        margin-top: 30px;
+    }
+    .idc-button {
+        padding: 10px 44px;
+    }
+    .idc-title-3::after {
+        margin-bottom: -12px;
+    }
+    /* *************about************ */
+    .idc-about .idc-container {
+        margin-top: 0;
+        padding-bottom: 80px;
+    }
+    .idc-about-img {
+        margin-top: -20px;
+        right: 80px;
+        width: 181px;
+    }
+    .idc-about-content {
+        max-width: 290px;
+    }
+    .idc-about .idc-title-3 + .idc-text-3 {
+        margin-top: 40px;
+    }
+    .idc-about .idc-text-3 + .idc-text-3 {
+        margin-top: 10px;
+    }
+    /* *************counts************ */
+
+    .idc-counts-content {
+        width: 373px;
+        height: 324px;
+    }
+    .idc-text-block {
+        max-width: 320px;
+        margin-left: -36px;
+    }
+    .idc-counts-content .idc-title-1::before {
+        width: 40px;
+        height: 5px;
+        left: -50px;
+    }
+    .idc-counts-content .idc-title-1::after {
+        height: 40px;
+        width: 4px;
+        left: -32px;
+    }
+    .idc-dots-small {
+        width: 80px;
+        height: 80px;
+    }
+    /* *************slider************ */
+    .idc-slider .idc-container {
+        padding-top: 80px;
+    }
+    .idc-swiper {
+        margin-top: 50px;
+    }
+    .idc-slider-img {
+        width: 452px;
+    }
+    .idc-slider-info {
+        padding-top: 15px;
+        padding-left: 20px;
+        padding-bottom: 50px;
+    }
+    .idc-slider-info .idc-title-2 {
+        margin-top: 20px;
+    }
+    .idc-area {
+        margin-top: 10px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .idc-slider-info .idc-text-3 {
+        margin-top: 32px;
+    }
+    .idc-swiper-button-prev,
+    .idc-swiper-button-next {
+        width: 18px;
+        height: 14px;
+    }
+    .idc-swiper-button-next {
+        margin-left: 15px;
+    }
+    .idc-swiper-btns {
+        right: 192px;
+        bottom: 6px;
+    }
+    /* *************projects************ */
+    .idc-projects .idc-container {
+        padding-top: 80px;
+    }
+    .idc-items-block {
+        margin-top: 44px;
+    }
+    .idc-item {
+        margin-top: 0;
+        margin-left: 50px;
+    }
+    .idc-item:nth-child(2n + 1) {
+        margin-left: 0;
+    }
+    .idc-item:nth-child(2n) {
+        margin-left: 50px;
+    }
+
+    /* *************footer************ */
+
+    .idc-footer .idc-container {
+        padding-top: 80px;
+        padding-bottom: 185px;
+    }
+    .idc-footer .idc-text-1::after {
+        margin-bottom: -104px;
+    }
+    .idc-footer .idc-text-1::before {
+        margin-top: 20px;
+    }
+}
+@media (max-width: 699px) {
+    .idc-container {
+        max-width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .idc-title-1 {
+        font-size: 50px;
+        line-height: 57px;
+    }
+    .idc-title-2 {
+        font-size: 25px;
+        line-height: 29px;
+    }
+    .idc-title-3 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .idc-text-1 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .idc-text-2 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .idc-text-3 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .idc-button-wrapper.idc-fixed {
+        display: none;
+    }
+    /* *************head************ */
+    .idc-head .idc-container {
+        padding-top: 25px;
+    }
+    .idc-head .idc-logo {
+        /* font-size: 15px; */
+        font-size: 4.8vw;
+        line-height: 5vw;
+        /* line-height: 16px; */
+        max-width: 38vw;
+    }
+
+    .idc-head-img-mobile {
+        display: block;
+        margin-top: 10px;
+    }
+    .idc-head-img {
+        display: none;
+    }
+    /* *************about************ */
+    .idc-about .idc-container {
+        padding-top: 30px;
+    }
+    .idc-about-img,
+    .idc-square,
+    .idc-dots-big {
+        display: none;
+    }
+    .idc-about-content {
+        max-width: unset;
+    }
+    .idc-about .idc-button-wrapper {
+        display: block;
+    }
+
+    /* *************counts************ */
+
+    .idc-text-block {
+        max-width: 250px;
+        margin-left: 0;
+        position: static;
+        top: unset;
+        -webkit-transform: translate(0);
+        -ms-transform: translate(0);
+        transform: translate(0);
+        left: unset;
+        padding-top: 45px;
+        padding-left: 10px;
+        padding-right: 10px;
+        max-width: unset;
+        width: 100%;
+    }
+    .idc-counts-content {
+        width: 100%;
+        height: 250px;
+        margin-left: 0;
+    }
+    .idc-counts-content .idc-title-1 > span {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .idc-counts-content .idc-title-1 {
+        padding-left: 32px;
+        position: absolute;
+        top: -20%;
+        background: #ffffff;
+        left: -10px;
+    }
+    .idc-counts-content .idc-title-1::after {
+        left: 13px;
+        height: 30px;
+    }
+    .idc-counts-content .idc-title-1::before {
+        width: 30px;
+        left: 0px;
+    }
+    .idc-dots-small {
+        width: 60px;
+        height: 60px;
+        right: 15px;
+    }
+    /* *************slider************ */
+    .idc-slider .idc-container {
+        padding-top: 60px;
+    }
+    .idc-slider-info {
+        position: relative;
+        left: unset;
+        right: unset;
+        top: unset;
+        bottom: unset;
+        height: 100%;
+        padding-top: 20px;
+        padding-left: 0;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+    .idc-swiper .swiper-slide {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .idc-swiper-button-prev,
+    .idc-swiper-button-next {
+        width: 30px;
+        height: 20px;
+    }
+    .idc-swiper-btns {
+        right: unset;
+        left: 0;
+        top: unset;
+        bottom: 0;
+    }
+    .idc-slider-info .idc-title-2 > span {
+        font-size: 23px;
+        line-height: 25px;
+    }
+    .idc-slider-img {
+        width: 100%;
+    }
+    /* *************projects************ */
+
+    .idc-projects .idc-container {
+        padding-top: 60px;
+    }
+    .idc-item {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        height: auto;
+        border: none;
+        margin-left: 0;
+        padding-left: 0;
+        width: 100%;
+        margin-top: 42px;
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .idc-item::before {
+        bottom: 0;
+        left: 22px;
+    }
+    .idc-item:nth-child(2n) {
+        margin-left: 0;
+    }
+    .idc-item-text {
+        margin-left: 10px;
+        width: 205px;
+    }
+    .idc-projects .idc-text-2 {
+        margin-top: 0;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    /* *************footer************ */
+
+    .idc-footer .idc-container {
+        padding-bottom: 85px;
+    }
+    .idc-footer .idc-text-1 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .idc-footer .idc-text-1::before {
+        margin-top: 30px;
+    }
+    .idc-footer .idc-text-1::after {
+        margin-bottom: 0;
+        bottom: unset;
+        top: 0;
+        margin-top: -30px;
+    }
+}
