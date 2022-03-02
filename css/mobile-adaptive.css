@@ -155,7 +155,7 @@
     }
     .idc-counts-content .idc-title-1::before {
         width: 40px;
-        height: 5px;
+        height: 4px;
         left: -50px;
     }
     .idc-counts-content .idc-title-1::after {
@@ -350,6 +350,15 @@
         height: 60px;
         right: 15px;
     }
+    .idc-counts-content .idc-title-1 > span > span {
+        font-size: 14px;
+        line-height: 10px;
+        background: #ffffff;
+        top: -2px;
+    }
+    .idc-counts-content .idc-title-1 > span {
+        background: #ffffff;
+    }
     /* *************slider************ */
     .idc-slider .idc-container {
         padding-top: 60px;
@@ -394,6 +403,9 @@
 
     .idc-projects .idc-container {
         padding-top: 60px;
+    }
+    .idc-items-block{
+        margin-top: 4px;
     }
     .idc-item {
         display: -webkit-box;
